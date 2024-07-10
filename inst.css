@@ -1,0 +1,55 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+header {
+	background-color: green;
+	width: 100%;
+	height: 90px;
+}
+h1{
+	padding-top: 20px;
+	color: white;
+	
+}
+aside{
+	background-color: blue;
+	height: 100%;
+	width: 20%;
+    position: fixed;
+}
+a{
+	text-decoration: none;
+	color: white;
+	size: 90px;
+	padding-top: 5px;
+}
+li{
+	padding-top: 20px;
+}
+button{
+  background-color: blue;
+	color: white;
+	padding: 20PX;
+	margin-top: 0PX;
+	margin-bottom: 20PX;
+	margin-bottom: 20px;
+	margin-right: 15px;
+	border-radius: 15px;
+	float: right;
+	border-color: white;
+}
+p{
+	font-size: 40px;
+	color: white;
+}
+
+img{
+	
+	width: 60px;
+	height: 60px;
+	margin-left: 60px;
+	margin-top: 40px;
+}
